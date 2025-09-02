@@ -1,2 +1,1 @@
-# PythonProgramming
 # Python Programming
